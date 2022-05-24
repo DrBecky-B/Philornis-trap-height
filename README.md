@@ -8,7 +8,8 @@ File name: Q1.Q3-T3T4-weather-amalg.March.2021.txt: this is the .txt file contai
   Temp: Temperature (°C) over the 48 hour period for which the trap was laid out
   Precip: Rainfall (mm) over the 48 hour period for which the trap was laid out
   Humidity: % relative humidity over the 48 hour period for which the trap was laid out
-  Trap.Height: Factor for trap height 
+  Trap: Categorical factor for trap height (A-E; lowest to highest)
+  Trap.Height: Factor for trap height (exact in m)
   Height: continuous variable of trap height (how high each trap was from the ground in metres)
   FPD: number of female P. downsi collected in that trap over the 48 hour trapping period
   MPD: number of male P. downsi collected in that trap over the 48 hour trapping period
